@@ -972,6 +972,9 @@ Responsive media queries
         width: 100%;
         transform: translate(-20px, 0px);
     }
+    /* .allign{
+        padding-left: 30%;
+    } */
     #apply-now a {
         width: 60%;
     }
